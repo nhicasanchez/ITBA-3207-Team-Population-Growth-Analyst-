@@ -41,10 +41,16 @@ This study plans to produce a productive result in which there will be analyzes 
 
 References
 
-
-2022 Al Jazeera Media Network_young-poor-Pregnant:Teen-mums-in-the-Philippines.
-OCTOBER 19, 2020, GLOBAL health, The Philippines Birth practices facilities maternal and infant mortality declines.
-Philippine National Statistics Office. (1994) 'Philippines National Safe Motherhood Survey 1993', National Statistics Office and Macro International Inc., Calverton, Maryland.
-Reproductive Health Law in the Philippines Esperanza Cabral Former Secretary of Health, Department of Health, Philippines
- 
-
+1.2022 Al Jazeera Media Network_young-poor-Pregnant:Teen-mums-in-the-Philippines NC
+2.OCTOBER 19, 2020, GLOBAL health, The Philippines Birth practices facilities maternal and infant mortality declines.
+3.Philippine National Statistics Office. (1994) 'Philippines National Safe Motherhood Survey 1993', National Statistics Office and Macro International Inc., Calverton, Maryland.
+4.Reproductive Health Law in the Philippines Esperanza Cabral Former Secretary of Health, Department of Health, Philippines.
+5.Changing behavior in pregnant women: A scoping review by Laura A. Zinsser,
+6.Birth, Marriage, and Death Statistics for 2021 (Preliminary, as of 28 February 2022) by Philippines Statistics Authority
+7.Poverty in the Philippines: Causes, Constraints, and Opportunities by Asian Development Bank
+8.Republic Act 10354: The Responsible Parenthood and Reproductive Health Act of 2012 by Republic of the Philippines
+Congress of the Philippines
+Metro Manila Fifteenth Congress Third Regular Session
+Begun and held in Metro Manila, on Monday, the twenty-third day of July, two thousand twelve
+9.poverty seminar presentations by Ross Hessmiller.
+10.Sex – sexuality education Personal development for the prevention of discrimination and violence (SEXED) Author: Angeliki Andreou, Cyprus Editor: Ildikó Lázár.
