@@ -1,5 +1,14 @@
 # Proposed Title: IMPORTANCE OF LIFE PLANS AND MATERNAL CARE FRAMEWORK
 
+Team Population Growth Analyst Members-ITBA-3207
+ Cudiamat,Jamille C.
+ Manalo,Andrei Jan Claude C.
+ Rajas,Joy Clarisse D.
+ Sanchez,Nhica
+ Sulit,Luz Mari-fer M.
+ 
+  
+
  **Introduction**
 
 In our day today, we should be always focused and aware on our medical condition, on our health. Most of Filipinos are used to take those vaccines to be prepared and secured in the challenges of this COVID PANDEMIC. But how about the pregnant? How they can be secured? It’s a matter life and how to be safe. And also most of the pregnant doesn’t recognized to take those vaccines, they don’t want this vaccine to harmed the baby in their womb. According to Fernando Mariz, MD — Written by Lia Tabackman and the Healthline Editorial Team — Updated on October 22, 2021 “ At your first visit, your doctor will check your vital signs and take your medical history. They may perform certain examinations and tests, including blood and urine tests.”, In this article, it tells the common process of pregnancy check up’s here in Philippines, but because of the problem what where facing right now, most of the pregnant doesn’t able to go and get their pregnancy check-up results. According CLEVELAND CLINIC to “Regular appointments with your healthcare provider throughout your pregnancy are important to ensure the health of you and your baby. In addition to medical care, prenatal care includes education on pregnancy and childbirth, plus counseling and support.”. This article tells that having a proper appointment with your pregnancy clinic will help every mother to secure the condition of their babies, but how did they able to do that, if this pandemic case will still bind in our environment? Then technology should take the responsibility to resolve this problem. Growth and development may lead us into better places that which may we apply it in our daily lifestyle.
@@ -37,6 +46,10 @@ The primary issue of this research is to how to help our society be open to heal
 **EXPECTED OUTPUTS**
 
 This study plans to produce a productive result in which there will be analyzes on the results of an individual’s early family existence. This study will help to come up with a guideline that will organize and encourage young people to be open to population growth here in the Philippines. With the help of an effective process everyone who wants to participate or get involved in the program can have a gathering. Each program has a mission and guidelines that help to open the minds of young people not to be an irresponsible person in society. among these programs is the discussion of early pregnancy prevention. with the help of sufficient knowledge in this subject, every young person can sincerely understand the effects and results that can happen to every decision they make. We can compare this program to a law that has already been approved here in the Philippines. Aiming to help and suggest to schools to strictly focus on sex education, as an individual it is our duty to be responsible for every procedure and education we undertake, we should better understand and comprehend the laws and principles that our government especially and it aims to help every single member or sector of our beloved country.
+
+
+
+Sustainable Development Goals (SDGs) of the Project
 
 
 **References**
