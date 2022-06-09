@@ -118,6 +118,6 @@ This study plans to produce a productive result in which there will be analyzes 
 
 8.Republic Act 10354: The Responsible Parenthood and Reproductive Health Act of 2012 by Republic of the Philippines, Congress of the Philippines, Metro Manila Fifteenth Congress Third Regular Session. Begun and held in Metro Manila, on Monday, the twenty-third day of July, two thousand twelve.
 
-9.poverty seminar presentations by Ross Hessmiller.
+9.Poverty seminar presentations by Ross Hessmiller.
 
 10.Sex – sexuality education Personal development for the prevention of discrimination and violence (SEXED) Author: Angeliki Andreou, Cyprus Editor: Ildikó Lázár.
