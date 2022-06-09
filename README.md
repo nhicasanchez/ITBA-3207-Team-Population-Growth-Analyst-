@@ -61,7 +61,10 @@ This study plans to produce a productive result in which there will be analyzes 
 
 **Sustainable Development Goals (SDGs) of the Project**
 
-**Goal 1:**  Proportion of the population below the international poverty line![image](https://user-images.githubusercontent.com/103089516/172954219-c36b51b1-19af-43c7-acab-d132dc48423d.png)
+**Goal 1:**  Proportion of the population below the international poverty line!
+**Goal 2:** To end hunger, achieve food security and improve nutrition and promote sustainable agriculture
+
+
 
 
 
