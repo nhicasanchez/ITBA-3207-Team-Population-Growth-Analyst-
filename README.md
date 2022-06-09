@@ -72,6 +72,16 @@ This study plans to produce a productive result in which there will be analyzes 
 ![image](https://user-images.githubusercontent.com/103089516/172955114-ba8fb7e9-6c1a-475c-8a1c-aa7e8054be9f.png)
 
 **Goal 2:** To end hunger, achieve food security and improve nutrition and promote sustainable agriculture
+
+
+
+
+
+
+
+![image](https://user-images.githubusercontent.com/103089516/172955493-695a35fd-df07-4a52-97f6-87e1e190df23.png)
+
+
 **Goal 3:** Maternal mortality ration, adolescent birth rate per 1000 women in that age group
 **Goal 4:** Proportion of children at the end of primary school achieving at least a minimum proficiency level in reading
 
