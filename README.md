@@ -1,11 +1,11 @@
 # Proposed Title: IMPORTANCE OF LIFE PLANS AND MATERNAL CARE FRAMEWORK
 
 Team Population Growth Analyst Members-ITBA-3207
- Cudiamat,Jamille C.
+ **Cudiamat,Jamille C.
  Manalo,Andrei Jan Claude C.
  Rajas,Joy Clarisse D.
  Sanchez,Nhica
- Sulit,Luz Mari-fer M.
+ Sulit,Luz Mari-fer M.**
  
   
 
