@@ -83,12 +83,21 @@ This study plans to produce a productive result in which there will be analyzes 
 
 
 **Goal 3:** Maternal mortality ration, adolescent birth rate per 1000 women in that age group
+ 
+ 
+ 
+ 
+ 
+ 
+ ![image](https://user-images.githubusercontent.com/103089516/172956743-c82f320f-cfd0-4d71-85ba-3013b5ecfe64.png)
+
 **Goal 4:** Proportion of children at the end of primary school achieving at least a minimum proficiency level in reading
 
 
 
 
 
+![image](https://user-images.githubusercontent.com/103089516/172956809-f07e4c47-5789-44f7-9421-d47e73cf430c.png)
 
 
 **References**
