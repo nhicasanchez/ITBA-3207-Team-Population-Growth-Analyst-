@@ -2,11 +2,15 @@
 
 Team Population Growth Analyst Members-ITBA-3207
 
- **Cudiamat,Jamille C.
- Manalo,Andrei Jan Claude C.
- Rajas,Joy Clarisse D.
- Sanchez,Nhica
- Sulit,Luz Mari-fer M.**
+ **Cudiamat,Jamille C.**
+ 
+ **Manalo,Andrei Jan Claude C.**
+ 
+ **Rajas,Joy Clarisse D.**
+ 
+ **Sanchez,Nhica**
+ 
+ **Sulit,Luz Mari-fer M.****
  
   
 
@@ -56,6 +60,9 @@ This study plans to produce a productive result in which there will be analyzes 
 
 
 **Sustainable Development Goals (SDGs) of the Project**
+
+**Goal 1:**  Proportion of the population below the international poverty line![image](https://user-images.githubusercontent.com/103089516/172954219-c36b51b1-19af-43c7-acab-d132dc48423d.png)
+
 
 
 **References**
