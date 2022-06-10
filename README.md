@@ -12,12 +12,19 @@
  
  ![286738652_544605170465316_398640589605439083_n](https://user-images.githubusercontent.com/103089516/172971671-ffb8dd13-a336-4bb9-b556-30dedc8fb5e3.jpg)
 
- 
+
  **Rajas,Joy Clarisse D.**
  
+ ![286432300_430031582299618_3701610343510512628_n](https://user-images.githubusercontent.com/103089516/172971846-45a0b95d-7d69-4936-9592-a8cc690d0d41.jpg)
+
  **Sanchez,Nhica**
  
+ 286060426_7526540244086277_3423006886756273323_n
+ 
  **Sulit,Luz Mari-fer M.** 
+ 
+ ![280206252_715077076467120_3058538413223109529_n](https://user-images.githubusercontent.com/103089516/172971929-455eaf5d-96e0-4922-b44b-b578c6bf679b.jpg)
+
  
   
 
