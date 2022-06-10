@@ -1,8 +1,8 @@
 # Proposed Title: IMPORTANCE OF LIFE PLANS AND MATERNAL CARE FRAMEWORK
 
-## hyphens
-**Team Population Growth Analyst Members**-ITBA-3207
 
+**Team Population Growth Analyst Members**-ITBA-3207
+##
  **Cudiamat,Jamille C.**
  
  ![IMG_20190311_170321](https://user-images.githubusercontent.com/103089516/172971389-f54d060d-d450-4325-a440-9280dd0f3cf2.jpg)
