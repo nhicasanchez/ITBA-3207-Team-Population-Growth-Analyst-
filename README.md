@@ -123,13 +123,6 @@ This study plans to produce a productive result in which there will be analyzes 
 
 
 ##
-**Final Presentation**
-##
-
-1. Final Presentation for Finals
-
-
-##
 **References**
 ##
 
