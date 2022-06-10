@@ -58,21 +58,6 @@ The primary issue of this research is to how to help our society be open to heal
 
 
 ##
-**GOALS:**
-##
-
-**GOAL1**: Parental awareness - It is important to understand the things that can give parents the right knowledge to properly care for their children in their womb, and to be open to the problems that each individual may go through.
-
-**GOAL2**: Children guidance - a basis for how a parent can take care of their child. openness and understanding of population development in our community. Ability of how they will give a proper education to their children, when the right time comes or its proper age.
-
-**GOAL3:** Sustainability and Awareness for each members of community. -  ability to support all the needs of children which may also be one of the reasons why more and more children lack proper care because of their parents. An independent method to gather ideas and opinions with the help of a progressive perspective and activity.
-
-**GOAL4:** Special matters for obesity: a special meeting and study for young people to encourage them in the right way that having an early family will never be the answer to poverty. but help them to be open to these matters.
-
-**GOAL5:** Healthy Parenting- an activity that helps parents to be active in understanding the issue as a parent. a parent who knows how to estimate how and when to have another family member. this issue will greatly help our society because it can bring about an understanding and result that can reduce the poverty experienced by our people.
-
-
-##
 **EXPECTED OUTPUTS**
 ##
 
