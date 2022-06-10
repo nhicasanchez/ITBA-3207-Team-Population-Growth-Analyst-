@@ -5,14 +5,13 @@
 
  **Cudiamat,Jamille C.**
  
- 
- 
- 
- 
  ![IMG_20190311_170321](https://user-images.githubusercontent.com/103089516/172971389-f54d060d-d450-4325-a440-9280dd0f3cf2.jpg)
 
  
  **Manalo,Andrei Jan Claude C.**
+ 
+ ![286738652_544605170465316_398640589605439083_n](https://user-images.githubusercontent.com/103089516/172971671-ffb8dd13-a336-4bb9-b556-30dedc8fb5e3.jpg)
+
  
  **Rajas,Joy Clarisse D.**
  
