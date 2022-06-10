@@ -27,11 +27,13 @@
 
  
   
-## **Introduction** ##
+##
+**Introduction** ##
 
 In our day today, we should be always focused and aware on our medical condition, on our health. Most of Filipinos are used to take those vaccines to be prepared and secured in the challenges of this COVID PANDEMIC. But how about the pregnant? How they can be secured? It’s a matter life and how to be safe. And also most of the pregnant doesn’t recognized to take those vaccines, they don’t want this vaccine to harmed the baby in their womb. According to Fernando Mariz, MD — Written by Lia Tabackman and the Healthline Editorial Team — Updated on October 22, 2021 “ At your first visit, your doctor will check your vital signs and take your medical history. They may perform certain examinations and tests, including blood and urine tests.”, In this article, it tells the common process of pregnancy check up’s here in Philippines, but because of the problem what where facing right now, most of the pregnant doesn’t able to go and get their pregnancy check-up results. According CLEVELAND CLINIC to “Regular appointments with your healthcare provider throughout your pregnancy are important to ensure the health of you and your baby. In addition to medical care, prenatal care includes education on pregnancy and childbirth, plus counseling and support.”. This article tells that having a proper appointment with your pregnancy clinic will help every mother to secure the condition of their babies, but how did they able to do that, if this pandemic case will still bind in our environment? Then technology should take the responsibility to resolve this problem. Growth and development may lead us into better places that which may we apply it in our daily lifestyle.
 
-## **Problem Statement** ##
+## 
+**Problem Statement** ##
 
 The biggest problem discussed in this study is the continuous increase in the number of population in the Philippines. Reasons why this happens, or who is often the victim of such a situation. Whether Filipinos are still able to maintain their safety even though they are pregnant despite the severity caused by the pandemic. The study focused on some specific areas.
 
@@ -40,7 +42,8 @@ How the clinic pregnancy representative or OB-GYN can easily accommodate all the
 How this computer system application can help the economy to prevent from COVID PANDEMIC cases?
 How this computer system application can help the user and the admin, and provides a great service for each parties?
 
-**Significance Of The Proposed Project**
+##
+**Significance Of The Proposed Project** ##
 
 
 The importance of this project is basically focused on its specific subject which is the mother and baby in her womb. First of all, as a project developer we all consider things to be favored in both parties, but the main concerns here are the safeties of every pregnant mommy’s who wants to do and to get the results of their pregnancy check-up’s during this pandemic. Proper accommodation and service will lead everyone to go with a right process, and this project can make it by using a real-time basis for appointment list. Because of this COVID PANDEMIC we all know that a lot of us was trying to set a good term of allowance budgeting to survive in daily needs, that’s how this project can help also every mommy’s, because this system can access online then basically they don’t need to go to clinic personally just to pass their requirements for checkups, very time and budget saving. Then when the user or the pregnant mother was already take the result by conducting some laboratory checkup or whatever test does the clinic required. The system will record each important details from the result, it will also set a timeline for proper monitoring of pregnancies due date. This computer system based will help a lot of mommy’s not just in terms of safeness and proper service and accommodations but also in a time and budget saving. We should be aware on the growth of technologies; we should accept the fact that we are in a modern era that everything can be manipulated and controlled by computer automation. We need to accept the fact that manual process can make it better if we pursue to upgrade it
